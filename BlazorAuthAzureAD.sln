@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthAzureAD.Client", "BlazorAuthAzureAD.Client\BlazorAuthAzureAD.Client.csproj", "{D37281A4-9A00-4185-9A20-37A3C1E09BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthAzureAD.API", "BlazorAuthAzureAD.API\BlazorAuthAzureAD.API.csproj", "{0B67FE74-5C27-4419-8C4E-FD0362FDB1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D37281A4-9A00-4185-9A20-37A3C1E09BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37281A4-9A00-4185-9A20-37A3C1E09BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37281A4-9A00-4185-9A20-37A3C1E09BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37281A4-9A00-4185-9A20-37A3C1E09BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B67FE74-5C27-4419-8C4E-FD0362FDB1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B67FE74-5C27-4419-8C4E-FD0362FDB1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B67FE74-5C27-4419-8C4E-FD0362FDB1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B67FE74-5C27-4419-8C4E-FD0362FDB1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5776D084-5160-4117-8AFE-70268D951E5E}
+	EndGlobalSection
+EndGlobal
